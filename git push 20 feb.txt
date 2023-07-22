@@ -1,0 +1,14 @@
+abc@e730f0ce1d24:~/workspace$ git clone https://github.com/SANGRAMLEMBE/flask_app_a.git
+Cloning into 'flask_app_a'...
+remote: Enumerating objects: 63, done.
+remote: Counting objects: 100% (63/63), done.
+remote: Compressing objects: 100% (44/44), done.
+remote: Total 63 (delta 15), reused 63 (delta 15), pack-reused 0
+Unpacking objects: 100% (63/63), 13.42 KiB | 808.00 KiB/s, done.
+abc@e730f0ce1d24:~/workspace$ ls
+app.py  flask_app_a  README.md  requirements.txt
+abc@e730f0ce1d24:~/workspace$ cd flask_app_a/
+abc@e730f0ce1d24:~/workspace/flask_app_a$ ls
+app.py     requirements.txt  templates
+README.md  static
+abc@e730f0ce1d24:~/workspace/flask_app_a$ 
